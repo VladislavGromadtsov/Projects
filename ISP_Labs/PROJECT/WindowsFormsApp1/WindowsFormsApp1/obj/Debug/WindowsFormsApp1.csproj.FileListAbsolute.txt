@@ -1,0 +1,12 @@
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Choice.resources
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChoiceV.resources
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources

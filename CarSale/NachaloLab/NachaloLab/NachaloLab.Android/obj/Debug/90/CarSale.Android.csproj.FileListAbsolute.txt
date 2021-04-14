@@ -1,0 +1,12 @@
+C:\PC\EDUCATION\3_SEMESTR\Xam\NachaloLab\NachaloLab\NachaloLab.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\PC\EDUCATION\3_SEMESTR\Xam\NachaloLab\NachaloLab\NachaloLab.Android\obj\Debug\90\build.props
+C:\PC\EDUCATION\3_SEMESTR\Xam\NachaloLab\NachaloLab\NachaloLab.Android\obj\Debug\90\adb.props
+C:\PC\EDUCATION\3_SEMESTR\Xam\NachaloLab\NachaloLab\NachaloLab.Android\obj\Debug\90\CarSale.Android.csprojAssemblyReference.cache
+C:\PC\EDUCATION\3_SEMESTR\Xam\NachaloLab\NachaloLab\NachaloLab.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\PC\EDUCATION\3_SEMESTR\Xam\NachaloLab\NachaloLab\NachaloLab.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\PC\EDUCATION\3_SEMESTR\Xam\NachaloLab\NachaloLab\NachaloLab.Android\obj\Debug\90\res.flag
+C:\PC\EDUCATION\3_SEMESTR\Xam\NachaloLab\NachaloLab\NachaloLab.Android\obj\Debug\90\R.txt
+C:\PC\EDUCATION\3_SEMESTR\Xam\NachaloLab\NachaloLab\NachaloLab.Android\obj\Debug\90\R.cs.flag
+C:\PC\EDUCATION\3_SEMESTR\Xam\NachaloLab\NachaloLab\NachaloLab.Android\obj\Debug\90\CarSale.Android.csproj.CoreCompileInputs.cache
+C:\PC\EDUCATION\3_SEMESTR\Xam\NachaloLab\NachaloLab\NachaloLab.Android\obj\Debug\90\NachaloLab.Android.dll
+C:\PC\EDUCATION\3_SEMESTR\Xam\NachaloLab\NachaloLab\NachaloLab.Android\obj\Debug\90\NachaloLab.Android.pdb

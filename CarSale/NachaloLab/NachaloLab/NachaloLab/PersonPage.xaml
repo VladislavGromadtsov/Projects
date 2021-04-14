@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="NachaloLab.PersonPage"
+             Title="{translator:Translate Authorisation}"
+             xmlns:translator ="clr-namespace:NachaloLab.Helpers">
+
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Label Text="{translator:Translate Enter}" HorizontalOptions="CenterAndExpand" Margin="15" FontSize="20" FontAttributes="Bold" TextColor="Black"/>
+            <Frame CornerRadius="10" HorizontalOptions="CenterAndExpand">
+            <StackLayout>
+                    <Entry x:Name="EntryMyName" Placeholder="{translator:Translate Name}"></Entry>
+                    <Entry x:Name="EntryMyEmail" Placeholder="{translator:Translate Email}"></Entry>
+                    <Entry x:Name="EntryMyPass" Placeholder="{translator:Translate Password}"></Entry>
+                    <Button Text="{translator:Translate EnterSite}" BackgroundColor="LightGreen" Clicked="Button_Clicked"></Button>
+                    <Button Text="{translator:Translate Registr}" Clicked="Reg_Clicked"></Button>
+                </StackLayout>
+           </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="NachaloLab.FilterPage"
+             Title="Поиск">
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Сброс" Clicked="Clear_Clicked"></ToolbarItem>   
+    </ContentPage.ToolbarItems>
+    <Frame x:Name="Frame">   
+        <ScrollView BackgroundColor="GhostWhite">
+        <StackLayout Padding="5">
+            <Picker x:Name="MarkPickel"  Title="Марка автомобиля" BackgroundColor="White"></Picker>
+            <Picker x:Name="CarModelPicker"  Title="Модель" BackgroundColor="White"></Picker>
+
+            <Label Text="ГОД ВЫПУСКА" Margin="0,15,0,0"></Label>
+            <StackLayout Orientation="Horizontal">
+                <Picker x:Name="YearSPicker" Title="с" HorizontalOptions="FillAndExpand" BackgroundColor="White"></Picker>
+                <Picker x:Name="YearPoPicker" Title="по" HorizontalOptions="FillAndExpand" BackgroundColor="White"></Picker>
+            </StackLayout>
+
+            <Label Text="ЦЕНА, USD" Margin="0,15,0,0"></Label>
+            <StackLayout Orientation="Horizontal">
+                <Picker x:Name="PriceOtPicker" Title="с" HorizontalOptions="FillAndExpand" BackgroundColor="White"></Picker>
+                <Picker x:Name="PriceDoPicker" Title="по" HorizontalOptions="FillAndExpand" BackgroundColor="White"></Picker>
+            </StackLayout>
+
+            <Picker x:Name="GearBoxPicker"  Title="Трансмиссия" BackgroundColor="White"></Picker>
+            <Picker x:Name="BodyTypePicker"  Title="Тип кузова" BackgroundColor="White"></Picker>
+            <Picker x:Name="EngineTypePicker"  Title="Тип двигателя" BackgroundColor="White"></Picker>
+
+            <Label Text="ОБЪЁМ ДВИГАТЕЛЯ" Margin="0,15,0,0"></Label>
+            <StackLayout Orientation="Horizontal">
+                <Picker x:Name="VolumeOtPicker" Title="с" HorizontalOptions="FillAndExpand" BackgroundColor="White"></Picker>
+                <Picker x:Name="VolumeDoPicker" Title="по" HorizontalOptions="FillAndExpand" BackgroundColor="White"></Picker>
+            </StackLayout>
+
+            <Label Text="ПРИВОД" Margin="0,15,0,0"></Label>
+            <Picker x:Name="DriveTypePicker" HorizontalOptions="FillAndExpand" BackgroundColor="White"></Picker>
+
+            <Button Text="Показать" BackgroundColor="RoyalBlue" TextColor="White"></Button>
+        </StackLayout>
+    </ScrollView>
+    </Frame>
+
+</ContentPage>

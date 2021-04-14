@@ -1,0 +1,35 @@
+Kyrie
+Irving
+27
+191
+22000000
+11
+Boston Celtics
+Jason
+Tatum
+21
+203
+14000000
+6
+Boston Celtics
+James
+Harden
+29
+196
+24000000
+35
+Houstan Rockets
+Lebron
+James
+34
+203
+35000000
+35
+Los-Angelas Lakers
+Stephen
+Curry
+30
+191
+23000000
+37
+Golden State

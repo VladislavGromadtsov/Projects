@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="NachaloLab.CarPage">
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout>
+            <Image Source="{Binding PhotoPath1}" Aspect="Fill" HeightRequest="250" WidthRequest="300"></Image>
+            <StackLayout Orientation="Horizontal">
+                <Image Source="{Binding PhotoPath2}" Aspect="Fill" HeightRequest="100" WidthRequest="200"></Image>
+                <Image Source="{Binding PhotoPath3}" Aspect="Fill" HeightRequest="100" WidthRequest="200"></Image>
+            </StackLayout>
+                <StackLayout Padding="12,0,12,0">
+                    <Label x:Name="Lbl1" Text="{Binding Mark}" FontSize="16" TextColor="Black"/>
+                    <Label x:Name="Lbl2" Text="{Binding Model}" FontSize="16" TextColor="Black"/>
+                    <Label x:Name="Lbl3" Text="{Binding Year}" FontSize="16" TextColor="Black" />
+                    <Label x:Name="Lbl4" Text="{Binding Milage}" FontSize="16" TextColor="Black"/>
+                    <Label x:Name="Lbl5" Text="{Binding Price}" FontSize="16" TextColor="Black" />
+                    <Label x:Name="Lbl6" Text="{Binding Transmission}" FontSize="16" TextColor="Black"/>
+                    <Label x:Name="Lbl7" Text="{Binding BodyType}" FontSize="16" TextColor="Black"/>
+                    <Label x:Name="Lbl8" Text="{Binding EngineType}" FontSize="16" TextColor="Black"/>
+                    <Label x:Name="Lbl9" Text="{Binding VIN}" FontSize="16" TextColor="Black"/>
+                    <Label x:Name="Lbl10" Text="{Binding TypeOfDrive}" FontSize="16" TextColor="Black"/>
+                </StackLayout>
+
+                <!--<StackLayout Orientation="Horizontal">
+                <Button Text="Сохранить" Clicked="SaveCar" />
+                <Button Text="Удалить" Clicked="DeleteCar" />
+                <Button Text="Отмена" Clicked="Cancel" />
+            </StackLayout>-->
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

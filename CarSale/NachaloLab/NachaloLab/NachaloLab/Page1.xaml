@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="NachaloLab.Page1"
+             Title="{translator:Translate Advert}"
+             xmlns:translator="clr-namespace:NachaloLab.Helpers">
+      
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Сортировка" Clicked="Sort_Clicked" Order="Primary" IconImageSource="baseline_import_export_black_18dp.png"></ToolbarItem>
+        <!--<ToolbarItem Text="Фильтр" Clicked="Filter_Clicked" Order="Primary"></ToolbarItem>-->
+    </ContentPage.ToolbarItems>
+    <StackLayout BackgroundColor="{DynamicResource BackGround}">
+        <SearchBar x:Name="entr" TextChanged="Entry_TextChanged"></SearchBar>
+
+        <ListView x:Name="CarsList" ItemsSource="{Binding}" ItemSelected="OnItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="{Binding PhotoPath1}" HeightRequest="75" WidthRequest="75" Aspect="Fill"></Image>
+                                <Label Text="{Binding Mark}" FontSize="Medium" TextColor="{DynamicResource LabelColor}" />
+                                <Label Text="{Binding Model}" FontSize="Medium" TextColor="{DynamicResource LabelColor}"/>
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

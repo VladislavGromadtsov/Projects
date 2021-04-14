@@ -1,0 +1,36 @@
+Alexandr
+Ovechkin
+33
+190
+607000
+10
+Washington Capitals
+Sidny
+Krosby
+31
+180
+411000
+9
+Pittsburgh Penguins
+Evgeny
+Malkin
+32
+193
+370000
+9
+Pittsburgh Penguins
+Jhon
+Karlson
+29
+195
+77000
+8
+Washington Capitals
+Jonatan
+Tayves
+30
+197
+292000
+11
+Chicago Blackhawks
+

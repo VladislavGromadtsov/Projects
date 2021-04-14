@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="NachaloLab.SortPage"
+             Title="{translator:Translate Sort}"
+             xmlns:translator="clr-namespace:NachaloLab.Helpers">
+
+    <ContentPage.Content BackgroundColor="GhostWhite">
+
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="{translator:Translate SortMark}" TextColor="Black" FontSize="18" Margin="0,20,0,10"></Label>
+                <CheckBox x:Name="Ch1" IsChecked="True" CheckedChanged="Ch1_CheckedChanged" HorizontalOptions="EndAndExpand"></CheckBox>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="{translator:Translate SortPrice}" TextColor="Black" FontSize="18" Margin="0,10,0,10"></Label>
+                <CheckBox x:Name="Ch2" CheckedChanged="Ch2_CheckedChanged" HorizontalOptions="EndAndExpand"></CheckBox>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="{translator:Translate SortYear}" TextColor="Black" FontSize="18" Margin="0,10,0,10"></Label>
+                <CheckBox x:Name="Ch3" CheckedChanged="Ch3_CheckedChanged" HorizontalOptions="EndAndExpand"></CheckBox>
+            </StackLayout>
+            
+            <Button Text="OK" Clicked="SortOk_Clicked" VerticalOptions="EndAndExpand" BackgroundColor="RoyalBlue" TextColor="White"></Button>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

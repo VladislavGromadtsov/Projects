@@ -1,0 +1,16 @@
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.dll
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.xml
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\4_LAB\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

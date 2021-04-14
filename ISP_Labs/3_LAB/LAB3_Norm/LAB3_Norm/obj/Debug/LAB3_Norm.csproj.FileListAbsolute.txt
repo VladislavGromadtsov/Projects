@@ -1,0 +1,7 @@
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\3_LAB\LAB3_Norm\LAB3_Norm\obj\Debug\LAB3_Norm.csprojAssemblyReference.cache
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\3_LAB\LAB3_Norm\LAB3_Norm\obj\Debug\LAB3_Norm.csproj.CoreCompileInputs.cache
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\3_LAB\LAB3_Norm\LAB3_Norm\bin\Debug\LAB3_Norm.exe.config
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\3_LAB\LAB3_Norm\LAB3_Norm\bin\Debug\LAB3_Norm.exe
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\3_LAB\LAB3_Norm\LAB3_Norm\bin\Debug\LAB3_Norm.pdb
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\3_LAB\LAB3_Norm\LAB3_Norm\obj\Debug\LAB3_Norm.exe
+C:\PC\EDUCATION\2_SEMESTR_1_K\ISP\3_LAB\LAB3_Norm\LAB3_Norm\obj\Debug\LAB3_Norm.pdb
